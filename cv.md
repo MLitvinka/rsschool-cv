@@ -10,10 +10,11 @@ _______
 
 ____
 
+## About me:
 
 
+I am 24 years old. I'm finished a music college, but decided to change field of activity. I have good interpersonal skills, am an excellent team worker and realy wanting to learn and develop new skills. I hope my diligence and the courses (**rs school**) will help me to obtain useful knowledge.
 
-my info
 
 
 ____
