@@ -42,3 +42,6 @@ ____
 ____
 ## Languages:
 * Russian - Native
+* Belarussian - Native
+* Polish - upper intermediate
+* English -  intermediate
