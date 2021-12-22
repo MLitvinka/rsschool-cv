@@ -1,3 +1,3 @@
 # rsschool-cv
 _____
-[MLitvinka](https://github.com/MLitvinka/rsschool-cv/blob/gh-pages/cv.md)
+[MLitvinka](https://MLitvinka.github.io/rsschool-cv/)
