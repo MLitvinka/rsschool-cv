@@ -1,3 +1,159 @@
-h1{
-    height: auto;
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+.body__box{
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 1920px;
+    height: 100%;
+    background-color: rgb(250, 249, 249);
+}
+ 
+
+.header__nav{
+    width: 1920px;
+    height: 100px;
+    background-color: rgb(189, 184, 178);
+    font-size: 36px;
+    margin-top: 25px;
+}
+.nav__box{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px; 
+}
+.contacts,
+.about,
+.skills,
+.code,
+.courses,
+.languages{
+    color: black;  
+}
+
+
+.title__box{
+    display: flex;
+    margin: 0px 200px;
+}
+.title__myphoto{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    margin: 70px 70px;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+}
+.title__name{
+    font-size: 60px;
+    margin:160px 160px 60px;
+}
+.title__text{
+    font-size: 45px;
+    margin:1px 160px;
+}
+
+.about__box{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: 70px 270px;
+    background-color: rgb(240, 234, 234);
+    padding: 40px 50px;
+}
+.about__title{
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+.about__text{
+    width: 900px;
+    font-size: 24px;
+}
+
+.skills__courses{
+    display: flex;
+    justify-content: space-between;
+    margin: 140px 270px;
+    padding: 40px 50px;
+}
+.skills__title{
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+.skills__list{
+    font-size: 24px;
+}
+.courses__title{ 
+    font-size: 45px;
+    margin-bottom: 40px;}
+.courses__text{
+    font-size: 24px;
+}
+
+.code__example{
+    margin: 70px 270px;
+    background-color: rgb(240, 234, 234);
+}
+.code__title{
+    font-size: 45px;
+    padding: 40px 50px;
+}
+.example{
+    font-size: 25px;
+}
+
+.language{
+    margin: 140px 270px;
+}
+.language__title{
+    font-size: 45px;
+    padding: 40px 50px;
+}
+.language__list{ 
+     font-size: 25px;
+     padding: 40px 50px;
+}
+
+.contacts__box{
+    margin: 70px 270px;
+    background-color: rgb(240, 234, 234);
+}
+.contacts__title{
+    font-size: 45px;
+    padding: 40px 50px;
+}
+.contacts__phone__email{  
+    font-size: 25px;
+    padding: 10px 50px 40px 50px;
+}
+
+.footer__box{
+    display: flex;
+    /* justify-content: space-between; */
+    height: 130px;
+    background-color: rgb(189, 184, 178);
+    padding: 0px 50px;
+}
+.footer__img{
+   margin-left: 1280px;
+   padding: 0px;
+  
+}
+.footer__link{
+    padding-top: 40px;
+    color: black;
+    font-size: 44px;
+}
+.footer__year{
+    padding-top: 40px;
+    color: black;
+    font-size: 44px;
+    margin-left: 110px;
 }
